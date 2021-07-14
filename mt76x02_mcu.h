@@ -64,7 +64,7 @@ enum mcu_function {
 	BW_SETTING = 2,
 	USB2_SW_DISCONNECT = 2,
 	USB3_SW_DISCONNECT = 3,
-	LOG_FW_DEBUG_MSG = 4,
+	LOG_FW_DEBUG_MSG = 1,
 	GET_FW_VERSION = 5,
 };
 
